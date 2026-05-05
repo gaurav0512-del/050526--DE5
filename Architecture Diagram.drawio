@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="mUuXruftfw6FPwZMniSf">
+    <mxGraphModel dx="885" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-3" edge="1" parent="1" source="C9lOYAjiuz4ua7qMHR3Q-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="C9lOYAjiuz4ua7qMHR3Q-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-1" parent="1" style="whiteSpace=wrap;html=1;" value="Load Raw CSV (python loader)" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-5" edge="1" parent="1" source="C9lOYAjiuz4ua7qMHR3Q-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="C9lOYAjiuz4ua7qMHR3Q-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-2" parent="1" style="whiteSpace=wrap;html=1;" value="Validation check" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-7" edge="1" parent="1" source="C9lOYAjiuz4ua7qMHR3Q-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="C9lOYAjiuz4ua7qMHR3Q-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-4" parent="1" style="whiteSpace=wrap;html=1;" value="Cleaning" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-9" edge="1" parent="1" source="C9lOYAjiuz4ua7qMHR3Q-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="C9lOYAjiuz4ua7qMHR3Q-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-6" parent="1" style="whiteSpace=wrap;html=1;" value="Testing" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-14" edge="1" parent="1" source="C9lOYAjiuz4ua7qMHR3Q-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="C9lOYAjiuz4ua7qMHR3Q-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-8" parent="1" style="whiteSpace=wrap;html=1;" value="Cleaned Dataset" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lOYAjiuz4ua7qMHR3Q-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="110" x="340" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

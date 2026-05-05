@@ -1,0 +1,6 @@
+User Story 1:- As a library system operator, I want to automatically load CSV file into an automated system so that I don't have to manually upload data.
+Acceptance - CSV correctly loaded
+User story 2:- As a librarian, I want to automatically detect error in datasets so that I can find the problematic records
+Acceptance: - Missing required fields, Duplicate errors or Invalid format errors.
+User story 3: - I want a cleansed  dataset ready for import.
+Acceptance:- Cleansed dataset is exported passing data validation rules
