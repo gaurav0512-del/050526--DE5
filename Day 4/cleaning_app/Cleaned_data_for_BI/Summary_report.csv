@@ -1,0 +1,9 @@
+Name,Count,Status
+Dataset_1_total_rows,114,Before
+total_column_in_dataset1,6,Before
+Missing_values_Datset1,560,Before
+Duplicate_values_Dataset1,92,Before
+Dataset_2_total_rows,9,Before
+total_column_in_dataset2,2,Before
+Missing_values_Datset2,2,Before
+Duplicate_values_Dataset2,0,Before

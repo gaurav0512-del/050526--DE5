@@ -1,0 +1,9 @@
+Name,Count,Status
+Dataset_1_total_rows,19,After
+total_column_in_dataset1,6,After
+Missing_values_Datset1,0,After
+Duplicate_values_Dataset1,0,After
+Dataset_2_total_rows,8,After
+total_column_in_dataset2,2,After
+Missing_values_Datset2,0,After
+Duplicate_values_Dataset2,0,After
